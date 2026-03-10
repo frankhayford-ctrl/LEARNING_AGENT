@@ -1,5 +1,7 @@
-def add(a, b):
+def combine(a, b):
     return a + b
 
-result = add(3, 5)
+result = combine(3, 6)
+
+
 print(result)  # 8
